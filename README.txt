@@ -1,4 +1,4 @@
-Welcome to Flyway.
+Welcome to FlywayMaintain.
 ------------------
 Database Migrations Made Easy.
 
